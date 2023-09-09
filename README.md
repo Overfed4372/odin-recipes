@@ -1,0 +1,1 @@
+The "odin-recipes" project here made by me, is intended to be a practice to advance my skills in basic html, listing, anchoring and inserting image into html documents.
