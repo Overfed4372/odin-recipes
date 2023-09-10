@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.titles {
+    background-color: aqua;
+}
+
+h1#main-title {
+    font-size: 36px;
+}
+
+#main-image {
+    width: 300px;
+    height: auto;
+}
+
+.description {
+    font-size: 24px;
+}
+
+.titles.ingredients {
+    font-size:28px;
+}
+
+.lists.ingredients li {
+    font-size:20px;
+}
+
+.titles.steps {
+    font-size:28px;
+}
+
+.lists.steps li {
+    font-size:20px
+}
