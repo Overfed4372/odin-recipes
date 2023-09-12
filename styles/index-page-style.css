@@ -1,9 +1,15 @@
 body {
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
-.hyper-links {
+.hyper-links.item {
     font-size: 40px;
+    border-bottom: 10px dashed #1dbba6;
+    border-left: 10px dashed #1dbba6;
+    padding: 10px;
+    margin: 40px 20px;
 }
 .hyper-links.list {
-    background-color: aqua;
+    margin-top: 10%;
+    /* background-color: aqua; */
+    padding: 30px 40px;
 }
